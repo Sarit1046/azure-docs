@@ -29,7 +29,7 @@ Ensure rapid detection and remediation of common attacks on VMs, SQL Servers, We
   - **Event Logs Clearing** – especially the Security Event log and PowerShell Operational logs
   - **Disabling of security tools/controls** (associated with some groups)
 - **Don't Ignore Commodity Malware** - Ransomware attackers regularly purchase access to target organizations from dark markets
-- **Integrate outside experts** – into processes to supplement expertise, such as the [Microsoft Detection and Response Team (DART)](https://aka.ms/dart).
+- **Integrate outside experts** – into processes to supplement expertise, such as the [Microsoft Incident Response team (formerly DART/CRSP)](https://aka.ms/dart).
 - **Rapidly isolate** compromised computers using [Defender for Endpoint](/windows/security/threat-protection/microsoft-defender-atp/respond-machine-alerts#isolate-devices-from-the-network) in on-premises deployment.
 
 ## Responding to ransomware attacks
@@ -62,7 +62,7 @@ The Microsoft Detection and Response Team will help protect you from attacks
 
 Understanding and fixing the fundamental security issues that led to the compromise in the first place should be a priority for ransomware victims.
 
-Integrate outside experts into processes to supplement expertise, such as the [Microsoft Detection and Response Team (DART)](https://aka.ms/dart). The DART engages with customers around the world, helping to protect and harden against attacks before they occur, as well as investigating and remediating when an attack has occurred.
+Integrate outside experts into processes to supplement expertise, such as the [Microsoft Incident Response team](https://aka.ms/dart). Microsoft Incident Response engages with customers around the world, helping to protect and harden against attacks before they occur, as well as investigating and remediating when an attack has occurred.
 
 Customers can engage our security experts directly from within the Microsoft Defender Portal for timely and accurate response. Experts provide insights needed to better understand the complex threats affecting your organization, from alert inquiries, potentially compromised devices, root cause of a suspicious network connection, to additional threat intelligence regarding ongoing advanced persistent threat campaigns.
 
