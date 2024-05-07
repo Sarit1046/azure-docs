@@ -29,14 +29,14 @@ Ensure rapid detection and remediation of common attacks on VMs, SQL Servers, We
   - **Event Logs Clearing** – especially the Security Event log and PowerShell Operational logs
   - **Disabling of security tools/controls** (associated with some groups)
 - **Don't Ignore Commodity Malware** - Ransomware attackers regularly purchase access to target organizations from dark markets
-- **Integrate outside experts** – into processes to supplement expertise, such as the [Microsoft Detection and Response Team (DART)](https://aka.ms/dart).
+- **Integrate outside experts** – into processes to supplement expertise, such as the [Microsoft Incident Response team (formerly DART/CRSP)](https://aka.ms/dart).
 - **Rapidly isolate** compromised computers using [Defender for Endpoint](/windows/security/threat-protection/microsoft-defender-atp/respond-machine-alerts#isolate-devices-from-the-network) in on-premises deployment.
 
 ## Responding to ransomware attacks
 
 ### Incident declaration
 
-Once a successful ransomware infection has been confirmed, the analyst should verify this represents a new incident or whether it may be related to an existing incident.  Look for currently-open tickets that indicate similar incidents.  If so, update the current incident ticket with new information in the ticketing system. If this is a new incident, an incident should be declared in the relevant ticketing system and escalated to the appropriate teams or providers to contain and mitigate the incident.  Be mindful that managing ransomware incidents may require actions taken by multiple IT and security teams.  Where possible, ensure that the ticket is clearly identified as a ransomware incident to guide workflow.
+Once a successful ransomware infection has been confirmed, the analyst should verify whether this is a new incident or related to an existing incident.  Look for currently-open tickets that indicate similar incidents.  If so, update the current incident ticket with new information in the ticketing system. If this is a new incident, an incident should be declared in the relevant ticketing system and escalated to the appropriate teams or providers to contain and mitigate the incident.  Be mindful that managing ransomware incidents may require actions taken by multiple IT and security teams.  Where possible, ensure that the ticket is clearly identified as a ransomware incident to guide workflow.
 
 ### Containment/Mitigation
 
@@ -62,13 +62,13 @@ The Microsoft Detection and Response Team will help protect you from attacks
 
 Understanding and fixing the fundamental security issues that led to the compromise in the first place should be a priority for ransomware victims.
 
-Integrate outside experts into processes to supplement expertise, such as the [Microsoft Detection and Response Team (DART)](https://aka.ms/dart). The DART engages with customers around the world, helping to protect and harden against attacks before they occur, as well as investigating and remediating when an attack has occurred.
+Integrate outside experts into processes to supplement expertise, such as the [Microsoft Incident Response team](https://aka.ms/dart). Microsoft Incident Response engages with customers around the world, helping to protect and harden against attacks before they occur, as well as investigating and remediating when an attack has occurred.
 
-Customers can engage our security experts directly from within the Microsoft Defender Portal for timely and accurate response. Experts provide insights needed to better understand the complex threats affecting your organization, from alert inquiries, potentially compromised devices, root cause of a suspicious network connection, to additional threat intelligence regarding ongoing advanced persistent threat campaigns.
+Customers can engage our security experts directly from within the Microsoft Defender Portal for timely and accurate response. Experts provide insights needed to better understand the complex threats affecting your organization, from alert inquiries, possibly compromised devices, root cause of a suspicious network connection, to additional threat intelligence regarding ongoing advanced persistent threat campaigns.
 
 Microsoft is ready to assist your company in returning to safe operations.
 
-Microsoft performs hundreds of compromise recoveries and has a tried-and-true methodology. Not only will it get you to a more secure position, it affords you the opportunity to consider your long-term strategy rather than reacting to the situation. 
+Microsoft performs hundreds of compromise recoveries and has a tried-and-true methodology that both helps secure your position and affords you the opportunity to consider your long-term strategy rather than simply reacting to an incident. 
 
 Microsoft provides Rapid Ransomware Recovery services. Under this, assistance is provided in all areas such as restoration of identity services, remediation and hardening and with monitoring deployment to help victims of ransomware attacks to return to normal business in the shortest possible timeframe.
 
