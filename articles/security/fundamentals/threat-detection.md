@@ -74,7 +74,7 @@ PIM helps you:
 
 [Microsoft Defender for Cloud](../../defender-for-cloud/defender-for-cloud-introduction.md) provides a comprehensive view into your organization's IT security posture, with built-in search queries for notable issues that require your attention. It provides high-level insight into the security state of your computers. You can also view all events from the past 24 hours, 7 days, or any other custom time-frame.
 
-Azure Monitor logs help you quickly and easily understand the overall security posture of any environment, all within the context of IT Operations, including software update assessment, antimalware assessment, and configuration baselines. Security log data is readily accessible to streamline the security and compliance audit processes.
+Azure Monitor logs help you quickly and easily understand the overall security posture of any environment, all within the context of IT Operations, including software update assessment, antimalware assessment to help mitigate threats such as ransomware, and configuration baselines. Security log data is readily accessible to streamline the security and compliance audit processes.
 
 ### Insight and analytics
 At the center of [Azure Monitor logs](../../azure-monitor/logs/log-query-overview.md) is the repository, which is hosted by Azure.
