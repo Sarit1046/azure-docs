@@ -16,9 +16,6 @@ Ransomware attacks deliberately encrypt or erase data and systems to force your 
 
 This article addresses what to do before an attack to protect your critical business systems and during an attack to ensure a rapid recovery of business operations.
 
-> [!NOTE]
-> Preparing for ransomware also improves resilience to natural disasters and rapid attacks like [WannaCry](https://en.wikipedia.org/wiki/WannaCry_ransomware_attack) & [(Not)Petya](https://attack.mitre.org/software/S0368/).
-
 ## What is ransomware?
 
 Ransomware is a type of extortion attack that encrypts files and folders, preventing access to important data and systems. Attackers use ransomware to extort money from victims by demanding money, usually in the form of cryptocurrencies, in exchange for a decryption key or in exchange for not releasing sensitive data to the dark web or the public internet.
